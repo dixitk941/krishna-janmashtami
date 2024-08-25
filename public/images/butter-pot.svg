@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" class="butter-pot-svg">
+  <g id="pot">
+    <ellipse cx="50" cy="60" rx="30" ry="20" fill="#A0522D" />
+    <ellipse cx="50" cy="50" rx="20" ry="10" fill="#FFD700" />
+  </g>
+  <!-- Butter Drops -->
+  <g id="butter-drops" opacity="0">
+    <circle cx="60" cy="70" r="3" fill="#FFD700" />
+    <circle cx="40" cy="75" r="3" fill="#FFD700" />
+  </g>
+</svg>

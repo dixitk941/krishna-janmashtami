@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" class="peacock-feather-svg">
+  <g id="feather">
+    <path d="M50 10 Q55 20 50 30 Q45 40 50 50 Q55 60 50 70" stroke="#00FF00" fill="none" stroke-width="2" />
+    <circle cx="50" cy="10" r="5" fill="#00008B" />
+  </g>
+</svg>
